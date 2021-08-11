@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Analyst
 - 🌱 I’m currently learning analysis software
 - 💞️ I’m looking to collaborate on Software Analyst 
-- 📫 How to reach me my Email Adress : gingirimoos@gmail.com 
+- 📫 How to reach me my Email Address : gingirimoos@gmail.com 
 
 <!---
 mostafamahmodian/mostafamahmodian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
